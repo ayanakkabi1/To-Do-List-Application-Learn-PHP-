@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Ma Todo App</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <h1>Ajouter une tache</h1>
